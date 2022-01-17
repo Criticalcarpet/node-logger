@@ -1,6 +1,6 @@
 {
   "name": "@criticalcarpet/node-logger",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Node Logger",
   "main": "src/index.js",
   "type": "module",
