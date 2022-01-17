@@ -1,0 +1,29 @@
+{
+  "name": "@criticalcarpet/node-logger",
+  "version": "0.0.1",
+  "description": "Node Logger",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Criticalcarpet/node-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "Node"
+  ],
+  "author": "Criticalcarpet <criticalcarpet.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Criticalcarpet/node-logger/issues"
+  },
+  "homepage": "https://github.com/Criticalcarpet/node-logger#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "date-fns": "^2.28.0",
+    "supports-color": "^9.2.1"
+  }
+}
